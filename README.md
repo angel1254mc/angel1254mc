@@ -1,9 +1,7 @@
 
 <div id = "header" align = "center">
-    <img src="https://i.imgur.com/F63ixRe.jpg"  width="412" height="275">
- <div>
-         <h1> Hello! I'm Angel! </h1>
-         <p> I am a Developer and Engineer.</p>
+    <h1> Hello! I'm Angel! </h1>
+    <p> I am a Developer and Engineer.</p>
     <div>
          <p> I like creating software that either makes life easier or more interesting. I enjoy making games, designing websites, and building apps that have a    real usecase! I'm a fast learner, and my skills reflect across the applications I've developed as well as the people I've worked with. I love collaborating with a team to write programs, so if you think I would be a good addition to your project let me know!</p>
          </p>
